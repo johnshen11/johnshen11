@@ -1,5 +1,5 @@
 - 👋 Hi, my name is John Shen
-- 👀 I’m interested in 
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning how to use SQL, Python, Tableau and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me directly at johnshen7230@gmail.com or https://www.linkedin.com/in/johnshen9000/
