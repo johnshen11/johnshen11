@@ -24,10 +24,10 @@
 
 ### :man_technologist: About Me :
 I am a data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Long Island, NY.
-- :telescope: I’m working towards a career as a data analyst
+- :telescope: I'm on the path to becoming a data analyst, equipped with skills in SQL, Tableau, and Python.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I really enjoy exercising, checking out tech reviews, watching Shark Tank, and playing basketball.
+- :zap: In my free time, I enjoy exercising, checking out tech reviews, watching Shark Tank, and playing basketball.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-shen-65489b177/)
+- :mailbox: You can reach me @ [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-shen-65489b177/)
