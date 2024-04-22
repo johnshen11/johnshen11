@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdseXU1aGU0eXVtazZja3RsN3cxeDgzNDNzbHZvbDExcG43cjNzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdseXU1aGU0eXVtazZja3RsN3cxeDgzNDNzbHZvbDExcG43cjNzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="250"/>
 </div>
-<div id="badges" align="center">
+<div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/john-shen-65489b177/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://komarev.com/ghpvc/?username=johnshen11&style=flat-square&color=blue" alt=""/>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=johnshen11&style=flat-square&color=blue" alt=""/>
   </a>
 </div > 
 <h1> 
@@ -37,3 +37,4 @@ I am a data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original-wordmark.svg" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
