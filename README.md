@@ -13,7 +13,8 @@
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://komarev.com/ghpvc/?username=johnshen11&style=flat-square&color=blue" alt=""/>
+</a>
+    <img src="https://komarev.com/ghpvc/?username=johnshen11&style=flat-square&color=blue" alt=""/>
   </a>
 </div > 
 <h1 align="center"> 
