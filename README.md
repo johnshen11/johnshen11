@@ -27,7 +27,7 @@
 I am a data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Long Island, NY.
 - :telescope: I'm on the path to becoming a data analyst, equipped with skills in SQL, Tableau, and Python.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Seeking out new opportunities for learning and growth.
 
 - :zap: In my free time, I enjoy exercising, checking out tech reviews, watching Shark Tank, and playing basketball.
 
