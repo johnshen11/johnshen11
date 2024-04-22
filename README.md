@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 I am a data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Long Island, NY.
-- :telescope: I'm experienced in SQL, Tableau, and Python.
+- :telescope: I'm experienced in SQL, Tableau, Excel and Python.
 
 - :seedling: Seeking out new opportunities for learning and growth.
 
